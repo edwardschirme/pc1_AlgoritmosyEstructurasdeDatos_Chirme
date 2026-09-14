@@ -1,0 +1,12 @@
+pe\edu\utp\videoclip\AudioData.class
+pe\edu\utp\videoclip\Metrics.class
+pe\edu\utp\videoclip\StudentWork.class
+pe\edu\utp\videoclip\WavReader.class
+pe\edu\utp\videoclip\FrameGenerator$Result.class
+pe\edu\utp\videoclip\VideoClipGUI.class
+pe\edu\utp\videoclip\ImageLibrary.class
+pe\edu\utp\videoclip\VideoClipMain.class
+pe\edu\utp\videoclip\AppConfig.class
+pe\edu\utp\videoclip\AudioAnalyzer.class
+pe\edu\utp\videoclip\MatrixImage.class
+pe\edu\utp\videoclip\FrameGenerator.class
